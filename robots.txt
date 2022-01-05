@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://nagatejasharaf832.github.io/sitemap/sitemap-index.xml
+Host: https://nagatejasharaf832.github.io
