@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Nagatheja Sharaf is currently a masters student at Indiana University Bloomington',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
+    'Nagatheja Sharaf, Nagatheja, Sharaf, nagatejasharaf832, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, Eunimart, bit, mesra, deoghar',
   siteUrl: 'https://nagatejasharaf832.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
