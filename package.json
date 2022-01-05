@@ -5,7 +5,7 @@
   "author": "Nagatheja Sharaf <nasharaf@iu.edu>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chandrikadeb7/chandrikadeb7.github.io.git"
+    "url": "git+https://github.com/nagatejasharaf832/chandrikadeb7.github.io.git"
   },
   "keywords": [
     "gatsby"
@@ -80,8 +80,8 @@
     "prettier": "^2.0.4"
   },
   "bugs": {
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io/issues"
+    "url": "https://github.com/nagatejasharaf832/chandrikadeb7.github.io/issues"
   },
-  "homepage": "https://github.com/chandrikadeb7/chandrikadeb7.github.io#readme",
+  "homepage": "https://github.com/nagatejasharaf832/chandrikadeb7.github.io#readme",
   "main": "gatsby-browser.js"
 }
