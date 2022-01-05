@@ -2,10 +2,10 @@
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Nagatheja Sharaf <nasharaf@iu.edu>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "git+https://github.com/chandrikadeb7/chandrikadeb7.github.io.git"
   },
   "keywords": [
     "gatsby"
@@ -53,6 +53,7 @@
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-remark": "^2.6.39",
     "gatsby-transformer-sharp": "^2.3.7",
+    "graphql": "^16.2.0",
     "lodash": "^4.17.15",
     "prismjs": "^1.25.0",
     "prop-types": "^15.7.2",
@@ -77,5 +78,10 @@
     "husky": "^4.2.3",
     "lint-staged": "^10.1.2",
     "prettier": "^2.0.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io/issues"
+  },
+  "homepage": "https://github.com/chandrikadeb7/chandrikadeb7.github.io#readme",
+  "main": "gatsby-browser.js"
 }
